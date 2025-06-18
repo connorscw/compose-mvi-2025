@@ -4,6 +4,8 @@ A modern Android app template built with **Jetpack Compose**, **MVI architecture
 
 📺 **YouTube Demo**: [Watch Now](https://youtu.be/rUnXeJ7zC1w)
 
+![MVI Architecture Diagram](https://raw.githubusercontent.com/BoltUIX/compose-mvi-2025/main/mvi.jpg)
+
 ---
 
 ## 🧱 Tech Stack
